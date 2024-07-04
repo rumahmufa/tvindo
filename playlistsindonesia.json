@@ -1,27 +1,22 @@
 [
   {
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI",
-    "icon": "Icons.video_library"
+    "name": "TVRI"
   },
   {
     "url": "https://example.com/sctv.m3u8",
-    "name": "SCTV",
-    "icon": "Icons.play_circle_filled"
+    "name": "SCTV"
   },
   {
     "url": "https://example.com/indosiar.m3u8",
-    "name": "Indosiar",
-    "icon": "Icons.movie"
+    "name": "Indosiar"
   },
   {
     "url": "https://example.com/transtv.m3u8",
-    "name": "Trans TV",
-    "icon": "Icons.tv"
+    "name": "Trans TV"
   },
   {
     "url": "https://example.com/trans7.m3u8",
-    "name": "Trans7",
-    "icon": "Icons.music_note"
+    "name": "Trans7"
   }
 ]
