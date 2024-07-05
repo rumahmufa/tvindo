@@ -14,7 +14,11 @@
    {
     "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183216/ei/UJWHZuCPLIPI6dsP5LqygAo/ip/86.107.43.88/id/gbLhU27-QWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaCOXJAHq4HG9ilHvClRiV7YCxRQjokwTdNqJHmTlwPBreFSUm_MEKtwfbI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSbgfO1BG4bW2SgJn5dVbQHQBoDXVgbKCk-hDgZCY624CIHmpkgW1LRygeL070Z1VTDRF-cUikHs60FzylohMfZaa/file/index.m3u8",
     "name": "MEDINNA TV"
-  },      
+  },
+   {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183506/ei/cpaHZpu_M4LAi9oP4q6jqAY/ip/86.107.43.88/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAd64XTdv9tvLYj6PBoRwXJA7-plUMdc9H3jga9MNs_oRubV9NcZ8OL9KUYA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOO3YQAGA5DIRpVOrmBHASg369UX9-IqVbekSUQPbVkzAiAFnN_K7i0TEBr2FmcmQ3SueNK9hDdxsQxtARMRAydRZw%3D%3D/file/index.m3u8",
+    "name": "CNANEWS TV"
+  },
    {
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "name": "TVRI WORLD"
