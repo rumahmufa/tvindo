@@ -6,7 +6,15 @@
    {
     "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
     "name": "NASA TV"
+  }, 
+   {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183102/ei/3pSHZu7QHMOH6dsPlty-2A8/ip/86.107.43.88/id/_JCDJykXGRo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAf21Bym8NOfr7LbxSaPMlGPDRWHlzWSM42kxplE67zlBEa7FmHYdAjPxE7E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGTYIqU7sQ-jXMUVQnqhFmAVEDsGxyCokXmgJ0Qo4pFACIQDTf9dqFs7fPDZje4eIkQuZdDq27WDgpkkUhgN8vO7wpg%3D%3D/file/index.m3u8",
+    "name": "MAKKAH TV"
   },   
+   {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183216/ei/UJWHZuCPLIPI6dsP5LqygAo/ip/86.107.43.88/id/gbLhU27-QWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaCOXJAHq4HG9ilHvClRiV7YCxRQjokwTdNqJHmTlwPBreFSUm_MEKtwfbI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSbgfO1BG4bW2SgJn5dVbQHQBoDXVgbKCk-hDgZCY624CIHmpkgW1LRygeL070Z1VTDRF-cUikHs60FzylohMfZaa/file/index.m3u8",
+    "name": "MEDINNA TV"
+  },      
    {
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "name": "TVRI WORLD"
