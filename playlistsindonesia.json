@@ -13,27 +13,27 @@
   },
   {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-    "name": "TVRI BENGKULU""
+    "name": "TVRI BENGKULU"
   },
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
-    "name": "TVRI GORONTALO""
+    "name": "TVRI GORONTALO"
   },
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
-    "name": "TVRI JABAR""
+    "name": "TVRI JABAR"
   },
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
-    "name": "TVRI JAMBI""
+    "name": "TVRI JAMBI"
   },
    {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-    "name": "TVRI JATENG""
+    "name": "TVRI JATENG"
   },
    {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
-    "name": "TVRI JATIM""
+    "name": "TVRI JATIM"
   },
   {
     "url": "https://example.com/trans7.m3u8",
