@@ -79,4 +79,20 @@
     "url": "https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8",
     "name": "AL QOMAR TV"
   }
+     {
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
+    "name": "TERANS TV"
+  },
+     {
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+    "name": "TERANS 7"
+  },
+     {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720174303/ei/f3KHZrTYE9DRi9oP-MmhoAY/ip/86.107.43.88/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAc1QtrPLpQg-uBaLi78z0j3NrvGjc4n4NhwH7KZ9z8GY4GoqNz-RviN7Grs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMzF2nKpisyLDDczCA9uI2f5hoKuHNC2dRA9Nq2lfUbMCIBvciEgF2OQ_9TxzhCY8-GzScJqtIRVX_l6ByE64Vtpw/file/index.m3u8",
+    "name": "KOMPUAS TV"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },  
 ]
