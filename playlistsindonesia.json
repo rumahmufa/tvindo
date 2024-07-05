@@ -4,16 +4,36 @@
     "name": "TVRI WORLD"
   },
   {
-    "url": "https://example.com/sctv.m3u8",
-    "name": "SCTV"
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+    "name": "TVRI NASIONAL"
   },
   {
-    "url": "https://example.com/indosiar.m3u8",
-    "name": "Indosiar"
+    "url": "hhttps://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+    "name": "TVRI BABEL"
   },
   {
-    "url": "https://example.com/transtv.m3u8",
-    "name": "Trans TV"
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+    "name": "TVRI BENGKULU""
+  },
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "name": "TVRI GORONTALO""
+  },
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "name": "TVRI JABAR""
+  },
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "name": "TVRI JAMBI""
+  },
+   {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "name": "TVRI JATENG""
+  },
+   {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "name": "TVRI JATIM""
   },
   {
     "url": "https://example.com/trans7.m3u8",
