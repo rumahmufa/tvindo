@@ -35,6 +35,22 @@
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
     "name": "TVRI JATIM"
   },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "name": "TVRI JOGJA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "name": "TVRI SUMUT"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "name": "TVRI SUMBAR"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },
   {
     "url": "https://example.com/trans7.m3u8",
     "name": "Trans7"
