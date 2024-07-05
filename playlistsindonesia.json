@@ -11,6 +11,14 @@
     "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183366/ei/5pWHZsrODbfXi9oPw4WPsAU/ip/86.107.43.88/id/zbJwSqkcb48.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166969/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAeeDF4pTzMm442IyIe483DGU9yW6eszCajOkeU1mR9T2ASOmE7GsU9NXcFQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANNDnpwaiXvgrmdZFoBBDgz0sA3zErpzNE2AZfGikf35AiEA2ek1Z-7KqmfXLCnrEcKVTQjsp-zyszq6PCbFpJE67UA%3D/file/index.m3u8",
     "name": "KARTUN WORLD"
   },
+   {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183506/ei/cpaHZpu_M4LAi9oP4q6jqAY/ip/86.107.43.88/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAd64XTdv9tvLYj6PBoRwXJA7-plUMdc9H3jga9MNs_oRubV9NcZ8OL9KUYA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOO3YQAGA5DIRpVOrmBHASg369UX9-IqVbekSUQPbVkzAiAFnN_K7i0TEBr2FmcmQ3SueNK9hDdxsQxtARMRAydRZw%3D%3D/file/index.m3u8",
+    "name": "CNANEWS TV"
+  },
+   {
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720183615/ei/35aHZr2qELbVi9oPw7GK0As/ip/86.107.43.88/id/9NyxcX3rhQs.320/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAea9IPSEpFduPmRiuMX7V_CFlB32I0iG-yJnplPTI9se5Emmm69_fG7RrJc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALJbbpAuQ_lKbSO4J2lKMoWItzePpI5yhn2v_5kZZAnmAiAHkDFsHYO-f4ikUTFF9D1TRCBjSObqQkUsK5zVJ77EvA%3D%3D/file/index.m3u8",
+    "name": "NEWS WORLD"
+  },
   {
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "name": "TVRI WORLD"
