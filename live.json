@@ -5,80 +5,16 @@
     "name": "TVRI WORLD"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "name": "TVRI NASIONAL"
+    "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8",
+    "name": "ANTV HD"
   },
   {
-    "url": "hhttps://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-    "name": "TVRI BABEL"
+    "url": "https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8",
+    "name": "HLIVE TV"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-    "name": "TVRI BENGKULU"
-  },
-    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
-    "name": "TVRI GORONTALO"
-  },
-    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
-    "name": "TVRI JABAR"
-  },
-    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
-    "name": "TVRI JAMBI"
-  },
-   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-    "name": "TVRI JATENG"
-  },
-   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
-    "name": "TVRI JATIM"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
-    "name": "TVRI JOGJA"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
-    "name": "TVRI SUMUT"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
-    "name": "TVRI SUMBAR"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-    "name": "TVRI PAPUA"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
-    "name": "TVRI BALIA"
-  },  
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
-    "name": "TVRI SULSEL"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
-    "name": "TVRI SULTRA"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-    "name": "TVRI PAPUA"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-    "name": "TVRI PAPUA"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
-    "name": "TVRI PAPUA"
-  },  
-  {
-    "url": "https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8",
-    "name": "AL QOMAR TV"
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "name": "SHOPING LIVE TV"
   },
      {
     "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
