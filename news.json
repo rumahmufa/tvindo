@@ -5,16 +5,16 @@
     "name": "TVRI WORLD"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "name": "TVRI NASIONAL"
+    "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "name": "LIVE NEWS"
   },
   {
-    "url": "hhttps://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-    "name": "TVRI BABEL"
+    "url": "https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8",
+    "name": "TEAGLE NEWS"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-    "name": "TVRI BENGKULU"
+    "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8",
+    "name": "TABC NEWS"
   },
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
