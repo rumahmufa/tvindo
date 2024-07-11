@@ -5,16 +5,16 @@
     "name": "MOVIE WORLD"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "name": "TVRI NASIONAL"
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?",
+    "name": "ACTION MOVIE"
   },
   {
-    "url": "hhttps://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
-    "name": "TVRI BABEL"
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "name": "ADVENTURA TV"
   },
   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
-    "name": "TVRI BENGKULU"
+    "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+    "name": "MY TIME MOVIE"
   },
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
