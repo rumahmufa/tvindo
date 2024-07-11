@@ -10,6 +10,25 @@
 {
     "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
     "name": "SEPORT3 TV"
+  },
+{
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "name": "SEPORT4 TV"
+  },
+{
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "name": "FOOTBALL TV"
+  },
+{
+    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "name": "MOTO SPORT RACE TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
   }
    
 ]
+
+
+A
