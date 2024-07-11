@@ -75,37 +75,5 @@
      {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
     "name": "TVRI PAPUA"
-  },  
-  {
-    "url": "https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8",
-    "name": "AL QOMAR TV"
-  },
-     {
-    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "name": "TERANS TV"
-  },
-     {
-    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "name": "TERANS 7"
-  },
-{
-    "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
-    "name": "KARTUN TV"
-  },
-{
-    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
-    "name": "SEPORT TV"
-  },
-{
-    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-    "name": "SPORT2 TV"
-  },
-{
-    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
-    "name": "SEPORT3 TV"
-  },
-{
-    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
-    "name": "KARTUN2 TV"
   }
 ]
