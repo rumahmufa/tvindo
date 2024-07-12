@@ -1,4 +1,36 @@
 [   
+    {
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "name": "TALJAZEERAT TV"
+  }, 
+    {
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "name": "TALJAZEERAT TV"
+  }, 
+    {
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "name": "TALJAZEERAT TV"
+  }, 
+    {
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "name": "TALJAZEERAT TV"
+  }, 
+    {
+    "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+    "name": "CTGN DOCUMENTARY"
+  }, 
+    {
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "name": "MEXICO NTV"
+  }, 
+    {
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "name": "TALJAZEERAT TV"
+  }, 
+   {
+    "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
+    "name": "ARABY TV"
+  },  
 {
     "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
     "name": "KARTUN TV"
