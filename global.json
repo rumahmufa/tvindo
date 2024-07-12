@@ -11,10 +11,6 @@
     "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
     "name": "MEXICO NTV"
   }, 
-    {
-    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
-    "name": "TALJAZEERAT TV"
-  }, 
    {
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
     "name": "ARABY TV"
@@ -32,28 +28,28 @@
     "name": "TVRI WORLD"
   }, 
    {
-    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
-    "name": "TALJAZEERAT TV"
+    "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8?checkedby:iptvcat.com",
+    "name": "LONDON TV"
   }, 
    {
     "url": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
     "name": "ARABY TV"
   }, 
    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
+    "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+    "name": "MUSIC WORLD"
   }, 
    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8",
+    "name": "ATHEN TV"
   }, 
    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
+    "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+    "name": "CCTV 4"
   }, 
    {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
+    "url": "https://edge02.odtv.az/o4/extremesport/playlist.m3u8",
+    "name": "EXTREME CHANEL"
   }, 
    {
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
