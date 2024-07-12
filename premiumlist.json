@@ -1,5 +1,4 @@
-[
-   
+[   
 {
     "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
     "name": "KARTUN TV"
@@ -128,7 +127,45 @@
     "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8",
     "name": "TABC NEWS"
   },
-  
-
-   
+    {
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8",
+    "name": "AVR SERIES"
+  },
+  {
+    "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+    "name": "AVA SERIES"
+  },
+   {
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "name": "FOOTBALL TV"
+  },
+{
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "name": "SEPORT TV"
+  },
+{
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "SPORT2 TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
+  },
+{
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "name": "SEPORT4 TV"
+  },
+{
+    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "name": "MOTO SPORT RACE TV"
+  },
+{
+    "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
+    "name": "eSPORT GAME TV"
+  },
+{
+    "url": "https://edge02.odtv.az/o7/viasatsport/playlist.m3u8",
+    "name": "SPORT VIJU TV"
+  }  
+     
 ]
