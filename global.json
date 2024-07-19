@@ -294,6 +294,10 @@
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
     "name": "CNBC IND"
   },
+   {
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+    "name": "CNN IND"
+  },
   {
     "url": "https://anym3u8player.com/youtube.php/id/669a3f3987324.m3u8",
     "name": "PIALA PRESIDEN"
