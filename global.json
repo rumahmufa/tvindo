@@ -1,4 +1,32 @@
 [ 
+         {
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "name": "FOOTBALL TV"
+  },
+{
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "name": "SPORT1 TV"
+  },
+{
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "SPORT2 TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
+  },
+{
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "name": "SEPORT4 TV"
+  },
+{
+    "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "name": "MOTO SPORT RACE TV"
+  },
+{
+    "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
+    "name": "eSPORT GAME TV"
+  },
     {
     "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
     "name": "TALJAZEERAT TV"
@@ -54,6 +82,215 @@
    {
     "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
     "name": "QATR TV"
+  },
+    {
+    "url": "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8",
+    "name": "ANIMETV"
+  },  
+{
+    "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
+    "name": "KARTUN TV"
+  },
+{
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "name": "KARTUN2 TV"
+  },
+{
+    "url": "hhttps://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
+    "name": "CARTOON NET TV"
+  },
+{
+    "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "name": "EBS KIDS"
+  },
+{
+    "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+    "name": "MNET TV"
+  },
+{
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "name": "KID AGHA TV"
+  },
+    {
+    "url": "https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8",
+    "name": "HLIVE TV"
+  },
+  {
+    "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8",
+    "name": "ANTV HD"
+  },
+  {
+    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+    "name": "BANDUNG HTV"
+  },
+    {
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8",
+    "name": "BDAAI TV"
+  },
+    {
+    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com",
+    "name": "LINGKAR TV"
+  },
+    {
+    "url": "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8",
+    "name": "KSESEHATAN TV"
+  },
+ 
+  {
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "name": "SHOPING LIVE TV"
+  },
+     {
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
+    "name": "TERANS TV"
+  },
+     {
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+    "name": "TERANS 7"
+  },
+{
+    "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
+    "name": "KARTUN TV"
+  },
+{
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "name": "SEPORT TV"
+  },
+{
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "SPORT2 TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
+  },
+{
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "name": "KARTUN2 TV"
+  },
+    
+  {
+    "url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
+    "name": "MOVIE WORLD"
+  },
+  {
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8?",
+    "name": "ACTION MOVIE"
+  },
+  {
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "name": "ADVENTURA TV"
+  },
+  {
+    "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+    "name": "MY TIME MOVIE"
+  },
+{
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "name": "SEPORT TV"
+  },
+{
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "SPORT2 TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
+  },
+{
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "name": "KARTUN2 TV"
+  },
+    
+  {
+    "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "name": "LIVE NEWS"
+  },
+  {
+    "url": "https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8",
+    "name": "TEAGLE NEWS"
+  },
+  {
+    "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8",
+    "name": "TABC NEWS"
+  },
+    {
+    "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+    "name": "EDU TV"
+  }, 
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+    "name": "TVRI GORONTALO"
+  },
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+    "name": "TVRI JABAR"
+  },
+    {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+    "name": "TVRI JAMBI"
+  },
+   {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "name": "TVRI JATENG"
+  },
+   {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+    "name": "TVRI JATIM"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "name": "TVRI JOGJA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+    "name": "TVRI SUMUT"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "name": "TVRI SUMBAR"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+    "name": "TVRI BALIA"
+  },  
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+    "name": "TVRI SULSEL"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+    "name": "TVRI SULTRA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "name": "TVRI PAPUA"
+  },
+{
+    "url": "https://edge02.odtv.az/o7/viasatsport/playlist.m3u8",
+    "name": "SPORT VIJU TV"
+  } ,
+     {
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8",
+    "name": "AVR SERIES"
+  },
+  {
+    "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+    "name": "AVA SERIES"
   }
+
+
    
 ]
