@@ -1,5 +1,5 @@
 [ 
- {
+  {
     "url": "https://live.teleradiocom.tj/8/3m.m3u8",
     "name": "FOOTBALL TV"
   },
@@ -27,6 +27,10 @@
     "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
     "name": "eSPORT GAME TV"
   },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "name": "TVRI WORLD"
+  },     
     {
     "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
     "name": "TALJAZEERAT TV"
@@ -50,11 +54,7 @@
    {
     "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
     "name": "NASA TV"
-  }, 
-   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
-  }, 
+  },  
    {
     "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8?checkedby:iptvcat.com",
     "name": "LONDON TV"
@@ -85,7 +85,7 @@
   },
     {
     "url": "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8",
-    "name": "ANIME TV"
+    "name": "ANIMETV"
   },  
 {
     "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
@@ -142,11 +142,11 @@
   },
      {
     "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "name": "TRANS TV"
+    "name": "TRANSTV"
   },
      {
     "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "name": "TRANS 7"
+    "name": "TRANS7"
   },
 {
     "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
@@ -172,6 +172,18 @@
   {
     "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
     "name": "MY TIME MOVIE"
+  },
+{
+    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+    "name": "SEPORT TV"
+  },
+{
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+    "name": "SPORT2 TV"
+  },
+{
+    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
+    "name": "SEPORT3 TV"
   },
 {
     "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
@@ -265,6 +277,30 @@
   {
     "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
     "name": "AVA SERIES"
+  },
+  {
+    "url": "https://e.siar.us/live/aktv.m3u8",
+    "name": "AKTV"
+  },
+  {
+    "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+    "name": "BANTEN TV "
+  },
+  {
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "name": "EUR IND"
+  },
+  {
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+    "name": "CNBC IND"
+  },
+   {
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+    "name": "CNN IND"
+  },
+  {
+    "url": "https://anym3u8player.com/youtube.php/id/669a3f3987324.m3u8",
+    "name": "PIALA PRESIDEN"
   }
   
 ]
