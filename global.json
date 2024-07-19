@@ -1,5 +1,5 @@
 [ 
-         {
+  {
     "url": "https://live.teleradiocom.tj/8/3m.m3u8",
     "name": "FOOTBALL TV"
   },
@@ -13,11 +13,11 @@
   },
 {
     "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
-    "name": "SEPORT3 TV"
+    "name": "SPORT3 TV"
   },
 {
     "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-    "name": "SEPORT4 TV"
+    "name": "SPORT4 TV"
   },
 {
     "url": "https://autopilot.catcast.tv/content/37909/index.m3u8",
@@ -27,6 +27,10 @@
     "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
     "name": "eSPORT GAME TV"
   },
+     {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "name": "TVRI WORLD"
+  },     
     {
     "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
     "name": "TALJAZEERAT TV"
@@ -50,11 +54,7 @@
    {
     "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
     "name": "NASA TV"
-  }, 
-   {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
-  }, 
+  },  
    {
     "url": "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8?checkedby:iptvcat.com",
     "name": "LONDON TV"
@@ -142,27 +142,15 @@
   },
      {
     "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8",
-    "name": "TERANS TV"
+    "name": "TRANSTV"
   },
      {
     "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
-    "name": "TERANS 7"
+    "name": "TRANS7"
   },
 {
     "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
     "name": "KARTUN TV"
-  },
-{
-    "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
-    "name": "SEPORT TV"
-  },
-{
-    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
-    "name": "SPORT2 TV"
-  },
-{
-    "url": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8",
-    "name": "SEPORT3 TV"
   },
 {
     "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
@@ -289,8 +277,5 @@
   {
     "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
     "name": "AVA SERIES"
-  }
-
-
-   
+  } 
 ]
