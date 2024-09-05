@@ -51,6 +51,10 @@
     "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
     "name": "EDU TV"
   }, 
+  {
+    "url": "https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8",
+    "name": "DISCOVERY HD TV"
+  }, 
     {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
     "name": "TVRI GORONTALO"
