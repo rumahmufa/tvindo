@@ -1,9 +1,5 @@
 [ 
   {
-    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
-    "name": "FOOTBALL TV"
-  },
-  {
     "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
     "name": "TVRI WORLD"
   },  
@@ -34,6 +30,10 @@
 {
     "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
     "name": "EBS KIDS"
+  },
+  {
+    "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+    "name": "FOOTBALL TV"
   },
 {
     "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
