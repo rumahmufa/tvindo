@@ -19,6 +19,22 @@
     "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
     "name": "SPORT1 TV"
   },
+  {
+    "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
+    "name": "KARTUN TV"
+  },
+{
+    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+    "name": "KARTUN2 TV"
+  },
+{
+    "url": "hhttps://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
+    "name": "CARTOON NET TV"
+  },
+{
+    "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "name": "EBS KIDS"
+  },
 {
     "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
     "name": "SPORT2 TV"
@@ -96,22 +112,6 @@
     "url": "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8",
     "name": "ANIMETV"
   },  
-{
-    "url": "https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8",
-    "name": "KARTUN TV"
-  },
-{
-    "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
-    "name": "KARTUN2 TV"
-  },
-{
-    "url": "hhttps://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8",
-    "name": "CARTOON NET TV"
-  },
-{
-    "url": "http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
-    "name": "EBS KIDS"
-  },
 {
     "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
     "name": "MNET TV"
