@@ -3,6 +3,18 @@
     "url": "https://live.teleradiocom.tj/8/3m.m3u8",
     "name": "FOOTBALL TV"
   },
+  {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "name": "TVRI WORLD"
+  },  
+  {
+    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+    "name": "BANDUNG HTV"
+  },
+   {
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+    "name": "TVRI JOGJA"
+  },
 {
     "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
     "name": "SPORT1 TV"
@@ -27,10 +39,7 @@
     "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
     "name": "eSPORT GAME TV"
   },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "name": "TVRI WORLD"
-  },     
+        
     {
     "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
     "name": "TALJAZEERAT TV"
@@ -118,10 +127,6 @@
   {
     "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8",
     "name": "ANTV HD"
-  },
-  {
-    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
-    "name": "BANDUNG HTV"
   },
     {
     "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8",
@@ -225,10 +230,6 @@
    {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
     "name": "TVRI JATIM"
-  },
-     {
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
-    "name": "TVRI JOGJA"
   },
      {
     "url": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
