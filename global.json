@@ -19,7 +19,11 @@
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
     "name": "TVRI JOGJA"
   },
-{
+  {
+    "url": "https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8",
+    "name": "DRAKOR TV DRAMA KOREA"
+  },
+ {
     "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
     "name": "SPORT1 TV"
   },
@@ -303,15 +307,15 @@
     "name": "PIALA PRESIDEN"
   },
   {
-    "url": "https://anym3u8player.com/youtube.php/id/669a3f3987324.m3u8",
+    "url": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8",
     "name": "KUALIFIKASI PIALA DUNIA 2026"
   },
   {
-    "url": "https://anym3u8player.com/youtube.php/id/669a3f3987324.m3u8",
+    "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
     "name": "Kualifikasi Piala Afrika 2025"
   },
   {
-    "url": "https://anym3u8player.com/youtube.php/id/669a3f3987324.m3u8",
+    "url": "http://124.29.225.205:8000/play/a03m/index.m3u8",
     "name": "UEFA Nations League"
   }
 ]
